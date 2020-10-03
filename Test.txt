@@ -1,1 +1,2 @@
-Added a line in Master
+Added a line in Master.
+Created new branch and checked in new branch. Pushed the changes to branchA.
